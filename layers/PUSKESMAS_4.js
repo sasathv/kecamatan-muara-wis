@@ -1,0 +1,14 @@
+var json_PUSKESMAS_4 = {
+"type": "FeatureCollection",
+"name": "PUSKESMAS_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": "Puskesmas Muarawis", "FCODE": null, "LCODE": "GI0020", "SRS_ID": null, "REMARK": "Puskesmas\/Puskesmas Pembantu", "METADATA": null, "KWKPKM_": "0", "KMPPKM_": "0", "JPLPKM_": "0", "PKMKODE_": null, "PKMKAT_": "0", "PKMLMT_": null }, "geometry": { "type": "Point", "coordinates": [ 116.48431, -0.315528 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Puskesmas Pembantu Melintang", "FCODE": null, "LCODE": "GI0020", "SRS_ID": null, "REMARK": "Puskesmas\/Puskesmas Pembantu", "METADATA": null, "KWKPKM_": "0", "KMPPKM_": "0", "JPLPKM_": "0", "PKMKODE_": null, "PKMKAT_": "0", "PKMLMT_": null }, "geometry": { "type": "Point", "coordinates": [ 116.407404, -0.285316 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Puskesmas Pembantu Muaraenggelam", "FCODE": null, "LCODE": "GI0020", "SRS_ID": null, "REMARK": "Puskesmas\/Puskesmas Pembantu", "METADATA": null, "KWKPKM_": "0", "KMPPKM_": "0", "JPLPKM_": "0", "PKMKODE_": null, "PKMKAT_": "0", "PKMLMT_": null }, "geometry": { "type": "Point", "coordinates": [ 116.192133, -0.110996 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Puskesmas Enggelam", "FCODE": null, "LCODE": "GI0020", "SRS_ID": null, "REMARK": "Puskesmas\/Puskesmas Pembantu", "METADATA": null, "KWKPKM_": "0", "KMPPKM_": "0", "JPLPKM_": "0", "PKMKODE_": null, "PKMKAT_": "0", "PKMLMT_": null }, "geometry": { "type": "Point", "coordinates": [ 116.22464, -0.115535 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Puskesmas Pembantu Muaraenggelam", "FCODE": null, "LCODE": "GI0020", "SRS_ID": null, "REMARK": "Puskesmas\/Puskesmas Pembantu", "METADATA": null, "KWKPKM_": "0", "KMPPKM_": "0", "JPLPKM_": "0", "PKMKODE_": null, "PKMKAT_": "0", "PKMLMT_": null }, "geometry": { "type": "Point", "coordinates": [ 116.330600000000118, -0.245526 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Puskesmas Pembantu Lebakcilong", "FCODE": null, "LCODE": "GI0020", "SRS_ID": null, "REMARK": "Puskesmas\/Puskesmas Pembantu", "METADATA": null, "KWKPKM_": "0", "KMPPKM_": "0", "JPLPKM_": "0", "PKMKODE_": null, "PKMKAT_": "0", "PKMLMT_": null }, "geometry": { "type": "Point", "coordinates": [ 116.528845998000065, -0.444703967999942 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Puskesmas Pembantu Lebakmantan", "FCODE": null, "LCODE": "GI0020", "SRS_ID": null, "REMARK": "Puskesmas\/Puskesmas Pembantu", "METADATA": null, "KWKPKM_": "0", "KMPPKM_": "0", "JPLPKM_": "0", "PKMKODE_": null, "PKMKAT_": "0", "PKMLMT_": null }, "geometry": { "type": "Point", "coordinates": [ 116.504939971000113, -0.425287959999935 ] } }
+]
+}
